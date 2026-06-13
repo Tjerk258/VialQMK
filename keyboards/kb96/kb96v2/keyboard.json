@@ -6,7 +6,7 @@
     "processor": "STM32F411",
     "url": "https://hallo.com",
     "diode_direction": "COL2ROW",
-    "debounce": 5,
+    "debounce": 20,
     "build":{
         "debounce_type": "asym_eager_defer_pk"
     },
